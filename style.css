@@ -1,0 +1,45 @@
+.header{
+    background-color: #adff2f;
+    display: flex;
+    justify-content: center;
+}
+.extra{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #d3d3d3;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.extra * {
+    border: solid;
+    border-color: #808080;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: baseline;
+    /*margin-left: 700px;
+    margin-right: 700px;*/
+}
+.camel{
+    background-color: #fafad1;
+}
+.chameleon{
+    background-color: #40e0d0;
+}
+.cicada{
+    background-color: #ffb6c1;
+}
+.panda{
+    background-color: #d8bfd8;
+}
+.pigeon{
+    background-color: #ffff00;
+}
+.teddy-bear{
+    background-color: #ffdab9;
+}
+
